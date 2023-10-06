@@ -1,0 +1,8 @@
+Model,Accuracy
+Logistic Regression,0.9131313131313131
+Decision Tree,0.9151515151515153
+RandomForestClassifier,0.9252525252525252
+CatBoostClassifier,0.9535353535353535
+GradientBoostingClassifier,0.9353535353535353
+AdaBoostClassifier,0.9292929292929293
+XGBClassifier,0.9555555555555555
