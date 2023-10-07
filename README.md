@@ -41,9 +41,9 @@ Hello, this is Bing. I can help you write a readme file for your credit card fra
 
 I created two graphs using PowerBI to compare the results of different models:
 
-- **Cross Validation Accuracy**: This graph shows the mean cross-validation accuracy of each model on the training and validation set.
+-**Cross Validation Accuracy**: This graph shows the mean cross-validation accuracy of each model on the training and validation set.
 <img src="https://github.com/Farah-DeebaJ/CreditCardFraudDetection/blob/main/Accuracy.png">
-- **Performance Metrics**: This graph shows the training accuracy, testing accuracy, training precision, testing precision, training recall and testing recall of each model.
+-**Performance Metrics**: This graph shows the training accuracy, testing accuracy, training precision, testing precision, training recall and testing recall of each model.
 <img src="https://github.com/Farah-DeebaJ/CreditCardFraudDetection/blob/main/Performance.png">
 
 
