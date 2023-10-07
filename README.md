@@ -39,7 +39,7 @@ Hello, this is Bing. I can help you write a readme file for your credit card fra
 
 ## Visualization
 
-I created two graphs using PowerBI to compare the results of different models:
+I created two graphs using **PowerBI** to compare the results of different models:
 
 -**Cross Validation Accuracy**: This graph shows the mean cross-validation accuracy of each model on the training and validation set.
 <img src="https://github.com/Farah-DeebaJ/CreditCardFraudDetection/blob/main/Accuracy.png">
