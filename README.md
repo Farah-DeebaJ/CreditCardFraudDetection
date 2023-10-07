@@ -2,6 +2,7 @@
 
 ## Introduction
 This project aims to build a machine learning model that can detect fraudulent credit card transactions based on the features of the transactions. The data used for this project is from a [Kaggle dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) that contains anonymized credit card transactions labeled as 1 or 0 ie. fraudulent or valid. The dataset is highly imbalanced, with only 0.2% of the transactions being fraudulent.
+
 <img src="https://github.com/Farah-DeebaJ/CreditCardFraudDetection/blob/main/distribution.png">
 
 
